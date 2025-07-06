@@ -1,5 +1,8 @@
+TODO: focus on algorithms relevant to DA
+TODO: references 
+
 ```
-Implimintation of classical algorithms and data structures on C or Python.  
+Implimintation of classical algorithms and data structures.  
 Реализация классических алгоритмов и структур данных на C или Python.  
 ```
 
@@ -11,7 +14,7 @@ Implimintation of classical algorithms and data structures on C or Python.
 | linear search | $O(n)$ | [C](https://github.com/igor-zalevskii/algorithms-and-data-structures/blob/main/algorithms/linear_search_int.c)<br>Python |
 | binary search | $O(\log{n})$ |
 
-TODO: linear search & binary search -> one file (2 functions)
+
 
 ## Sorting Algorithms
 
