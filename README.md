@@ -1,10 +1,6 @@
-TODO: focus on algorithms relevant to DA
-TODO: references 
-
-```
 Implimintation of classical algorithms and data structures.  
 Реализация классических алгоритмов и структур данных на C или Python.  
-```
+
 
 # Algorithms
 ## Searching Algorithms
@@ -24,8 +20,13 @@ Implimintation of classical algorithms and data structures.
 | bubble sort | $O(n^2)$ |
 | merge sort | $O(n\log{n})$ |
 
+## DA
+
+
 # Data Structures
 ## linked lists  
 ## trees  
 ## hash-tables  
 ## tries  
+
+# References
