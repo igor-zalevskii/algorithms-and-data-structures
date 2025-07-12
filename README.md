@@ -11,7 +11,7 @@ Implimintation of classical algorithms and data structures.
 
 | Algorithm | Running Time | Source Code |
 |---|---|---|
-| linear search | $O(n)$ | [C](https://github.com/igor-zalevskii/algorithms-and-data-structures/blob/main/algorithms/linear_search_int.c)<br>Python |
+| linear search | $O(n)$ | [C](https://github.com/igor-zalevskii/algorithms-and-data-structures/blob/main/algorithms/linear_search_int.c) |
 | binary search | $O(\log{n})$ |
 
 
