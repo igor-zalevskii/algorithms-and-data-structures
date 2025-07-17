@@ -7,7 +7,7 @@ Implimintation of classical algorithms and data structures.
 
 | Algorithm | Running Time | Source Code |
 |---|---|---|
-| linear search | $O(n)$ | [C](https://github.com/igor-zalevskii/algorithms-and-data-structures/blob/main/algorithms/linear_search_int.c) |
+| linear search | $O(n)$ | [C](https://github.com/igor-zalevskii/algorithms-and-data-structures/blob/codespace-potential-space-spoon-q794pg6q5wj729q77/algorithms/linear_search.c) |
 | binary search | $O(\log{n})$ |
 
 
